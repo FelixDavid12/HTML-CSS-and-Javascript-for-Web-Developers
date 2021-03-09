@@ -1,3 +1,3 @@
-# Welcome to my first project
+# Welcome to the project's root for the HTML, CSS and Javascript for Web Developers course, developed by @FelixDavid12
 
-[Link](https://felixdavid12.github.io/HTML-CSS-and-Javascript-for-Web-Developers/)
+[Link to the final application](https://felixdavid12.github.io/HTML-CSS-and-Javascript-for-Web-Developers/module5-solution)
